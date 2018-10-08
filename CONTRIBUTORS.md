@@ -17,6 +17,12 @@ About: Software engineer student!<br/>
 Programming Language: Python, C++, Swift<br/>
 Email: luojames52@gmail.com<br/>
 
+Name: [Juhi Chawlani](Github Link)
+Place: Bilaspur
+About: Software engineer
+Programming Language: java
+Email: allenitejuhi@gmail.com
+
 Name: [Santino](https://github.com/santinohu)<br/>
 Place: Netherlands<br/>
 About: Software engineer student!<br/>
